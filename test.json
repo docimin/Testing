@@ -33,7 +33,7 @@
     },
     "variables": [
         {
-            "name": "Git Repo Address",
+            "name": "Git Repo Address test",
             "description": "GitHub Repo to clone\r\n\r\nI.E. https:\/\/github.com\/parkervcp\/repo_name",
             "env_variable": "GIT_ADDRESS",
             "default_value": "",
